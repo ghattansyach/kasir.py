@@ -1,0 +1,30 @@
+[
+  {
+    "kode": "B001",
+    "nama": "Beras 5 Kg",
+    "harga_beli": 85000,
+    "harga_jual": 97000,
+    "stok": 19
+  },
+  {
+    "kode": "B002",
+    "nama": "Gula 1 Kg",
+    "harga_beli": 17000,
+    "harga_jual": 20000,
+    "stok": 34
+  },
+  {
+    "kode": "B003",
+    "nama": "Minyak Goreng 1 Liter",
+    "harga_beli": 20000,
+    "harga_jual": 25000,
+    "stok": 49
+  },
+  {
+    "kode": "B004",
+    "nama": "Mie Instan",
+    "harga_beli": 3000,
+    "harga_jual": 4000,
+    "stok": 80
+  }
+]

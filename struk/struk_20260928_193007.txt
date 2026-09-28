@@ -1,0 +1,21 @@
+        TOKO KELONTONG GHATTAN        
+            Jl. Raya No. 1            
+======================================
+Tanggal : 28-09-2026 19:30:07
+Kasir   : Admin
+--------------------------------------
+Beras 5 Kg
+  2 x Rp 97.000             Rp 194.000
+Gula 1 Kg
+  3 x Rp 20.000              Rp 60.000
+Minyak Goreng 1 Liter
+  1 x Rp 25.000              Rp 25.000
+Mie Instan
+  3 x Rp 4.000               Rp 12.000
+--------------------------------------
+TOTAL                       Rp 291.000
+BAYAR                       Rp 300.000
+KEMBALI                       Rp 9.000
+======================================
+             Terima Kasih             
+       Selamat Belanja Kembali        

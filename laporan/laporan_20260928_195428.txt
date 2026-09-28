@@ -1,0 +1,19 @@
+                   TOKO KELONTONG GHATTAN                   
+                     LAPORAN PENJUALAN                      
+Periode : Hari Ini
+Dicetak : 28-09-2026 19:54:28
+============================================================
+Jumlah Transaksi : 3
+Barang Terjual   : 8
+Pendapatan       : Rp 332.000
+Modal (HPP)      : Rp 287.000
+Laba Bersih      : Rp 45.000
+============================================================
+PENJUALAN PER PRODUK
+------------------------------------------------------------
+[4] Mie Instan
+    Terjual 4  |  Pendapatan Rp 16.000  |  Laba Rp 4.000
+[1] Beras 5 Kg
+    Terjual 3  |  Pendapatan Rp 291.000  |  Laba Rp 36.000
+[3] Minyak Goreng 1 Liter
+    Terjual 1  |  Pendapatan Rp 25.000  |  Laba Rp 5.000

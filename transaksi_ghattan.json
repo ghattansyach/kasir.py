@@ -1,0 +1,67 @@
+[
+  {
+    "no": 1,
+    "waktu": "2026-09-28 19:44:35",
+    "kasir": "Kasir",
+    "items": [
+      {
+        "kode": "1",
+        "nama": "Beras 5 Kg",
+        "qty": 1,
+        "harga_beli": 85000,
+        "harga_jual": 97000
+      },
+      {
+        "kode": "3",
+        "nama": "Minyak Goreng 1 Liter",
+        "qty": 1,
+        "harga_beli": 20000,
+        "harga_jual": 25000
+      },
+      {
+        "kode": "4",
+        "nama": "Mie Instan",
+        "qty": 4,
+        "harga_beli": 3000,
+        "harga_jual": 4000
+      }
+    ],
+    "total": 138000,
+    "bayar": 150000,
+    "kembali": 12000
+  },
+  {
+    "no": 2,
+    "waktu": "2026-09-28 19:45:45",
+    "kasir": "Admin",
+    "items": [
+      {
+        "kode": "1",
+        "nama": "Beras 5 Kg",
+        "qty": 1,
+        "harga_beli": 85000,
+        "harga_jual": 97000
+      }
+    ],
+    "total": 97000,
+    "bayar": 100000,
+    "kembali": 3000
+  },
+  {
+    "no": 3,
+    "waktu": "2026-09-28 19:51:50",
+    "kasir": "Admin",
+    "items": [
+      {
+        "kode": "1",
+        "nama": "Beras 5 Kg",
+        "qty": 1,
+        "harga_beli": 85000,
+        "harga_jual": 97000
+      }
+    ],
+    "total": 97000,
+    "bayar": 100000,
+    "kembali": 3000
+  }
+]

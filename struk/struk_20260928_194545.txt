@@ -1,0 +1,16 @@
+        TOKO KELONTONG GHATTAN        
+            Jl. Raya No. 1            
+======================================
+No      : 2
+Tanggal : 28-09-2026 19:45:45
+Kasir   : Admin
+--------------------------------------
+Beras 5 Kg
+  1 x Rp 97.000              Rp 97.000
+--------------------------------------
+TOTAL                        Rp 97.000
+BAYAR                       Rp 100.000
+KEMBALI                       Rp 3.000
+======================================
+             Terima Kasih             
+       Selamat Belanja Kembali        

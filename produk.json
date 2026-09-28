@@ -1,0 +1,146 @@
+[
+  {
+    "kode": "B001",
+    "nama": "Beras 5 Kg",
+    "harga": 68000,
+    "stok": 30
+  },
+  {
+    "kode": "B002",
+    "nama": "Minyak Goreng 1 Liter",
+    "harga": 18000,
+    "stok": 40
+  },
+  {
+    "kode": "B003",
+    "nama": "Gula Pasir 1 Kg",
+    "harga": 17000,
+    "stok": 35
+  },
+  {
+    "kode": "B004",
+    "nama": "Telur Ayam 1 Kg",
+    "harga": 29000,
+    "stok": 25
+  },
+  {
+    "kode": "B005",
+    "nama": "Tepung Terigu 1 Kg",
+    "harga": 12000,
+    "stok": 30
+  },
+  {
+    "kode": "B006",
+    "nama": "Garam Dapur",
+    "harga": 3000,
+    "stok": 50
+  },
+  {
+    "kode": "M001",
+    "nama": "Indomie Goreng",
+    "harga": 3500,
+    "stok": 120
+  },
+  {
+    "kode": "M002",
+    "nama": "Indomie Soto",
+    "harga": 3300,
+    "stok": 100
+  },
+  {
+    "kode": "M003",
+    "nama": "Mie Sedaap Goreng",
+    "harga": 3400,
+    "stok": 90
+  },
+  {
+    "kode": "K001",
+    "nama": "Kopi Kapal Api Sachet",
+    "harga": 1500,
+    "stok": 150
+  },
+  {
+    "kode": "K002",
+    "nama": "Teh Celup Sariwangi",
+    "harga": 6500,
+    "stok": 40
+  },
+  {
+    "kode": "K003",
+    "nama": "Susu Kental Manis",
+    "harga": 12500,
+    "stok": 30
+  },
+  {
+    "kode": "K004",
+    "nama": "Kecap Manis ABC 275ml",
+    "harga": 11000,
+    "stok": 25
+  },
+  {
+    "kode": "K005",
+    "nama": "Saos Sambal Botol",
+    "harga": 9500,
+    "stok": 24
+  },
+  {
+    "kode": "S001",
+    "nama": "Sabun Mandi Lifebuoy",
+    "harga": 4500,
+    "stok": 60
+  },
+  {
+    "kode": "S002",
+    "nama": "Shampo Sachet",
+    "harga": 1000,
+    "stok": 199
+  },
+  {
+    "kode": "S003",
+    "nama": "Detergen Rinso 800g",
+    "harga": 21000,
+    "stok": 20
+  },
+  {
+    "kode": "S004",
+    "nama": "Pasta Gigi Pepsodent",
+    "harga": 9000,
+    "stok": 35
+  },
+  {
+    "kode": "S005",
+    "nama": "Sabun Cuci Piring Sunlight",
+    "harga": 14000,
+    "stok": 30
+  },
+  {
+    "kode": "A001",
+    "nama": "Aqua Botol 600ml",
+    "harga": 3500,
+    "stok": 80
+  },
+  {
+    "kode": "A002",
+    "nama": "Teh Botol Sosro",
+    "harga": 5000,
+    "stok": 57
+  },
+  {
+    "kode": "R001",
+    "nama": "Rokok Filter (Bungkus)",
+    "harga": 27000,
+    "stok": 40
+  },
+  {
+    "kode": "R002",
+    "nama": "Biskuit Roma Kelapa",
+    "harga": 9000,
+    "stok": 30
+  },
+  {
+    "kode": "R003",
+    "nama": "Chitato 68g",
+    "harga": 11000,
+    "stok": 22
+  }
+]
